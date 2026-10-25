@@ -8,16 +8,6 @@
 </picture>
 
 <br/>
-
-<!-- Subtle Loop Motion Indicator (Optional Motion Graphic) -->
-<details>
-  <summary align="center"><b>View Ambient Motion Graphic</b></summary>
-  <br/>
-  <p align="center">
-    <img alt="Ambient Motion Graphic" src="assets/github-motion.gif" width="90%">
-  </p>
-</details>
-
 <br/>
 
 # Building useful digital experiences.
