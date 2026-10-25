@@ -168,6 +168,18 @@ A categorized overview of the core technologies, frameworks, and tools I work wi
 
 ---
 
+### 3D Contribution Calendar
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/profile-3d-contrib.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/profile-3d-contrib.png">
+    <img alt="Syed Saif Bin Saeed — 3D Isometric Contribution Calendar" src="assets/profile-3d-contrib.png" width="100%">
+  </picture>
+</div>
+
+---
+
 ### GitHub Activity
 
 <div align="center">
