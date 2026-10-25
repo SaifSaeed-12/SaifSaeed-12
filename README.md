@@ -1,31 +1,32 @@
 <div align="center">
 
-<!-- Custom Hero Banner: Minimal Metallic Edition -->
+<!-- Section A — Cinematic Header: SAIF AI Animated Core Banner -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/github-banner.png">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/github-motion.gif">
   <source media="(prefers-color-scheme: light)" srcset="assets/github-banner.png">
-  <img alt="Syed Saif Bin Saeed — Full Stack & Creative Developer" src="assets/github-banner.png" width="100%">
+  <img alt="Syed Saif Bin Saeed — SAIF AI Futuristic Developer Experience" src="assets/github-motion.gif" width="100%">
 </picture>
 
 <br/>
 <br/>
 
-# Building useful digital experiences.
+# Building Intelligent Digital Experiences.
 
 <p align="center">
-  I'm a developer interested in full-stack web development, creative interfaces, interactive 3D experiences, and practical workflow automation.
+  <b>Syed Saif Bin Saeed</b><br/>
+  <sub>Full Stack Developer &nbsp;•&nbsp; Creative Developer &nbsp;•&nbsp; Automation Enthusiast</sub><br/>
+  <code>CODE. CREATE. AUTOMATE. EVOLVE.</code>
 </p>
 
 <p align="center">
   <a href="https://github.com/SaifSaeed-12">
-    <img src="https://img.shields.io/badge/GitHub-SaifSaeed--12-111317?style=flat-square&logo=github&logoColor=BFC7D5" alt="GitHub Profile" />
+    <img src="https://img.shields.io/badge/GitHub-SaifSaeed--12-0B1018?style=flat-square&logo=github&logoColor=00A6FF" alt="GitHub Profile" />
+  </a>
+  <a href="mailto:saifsaeed923@gmail.com">
+    <img src="https://img.shields.io/badge/Contact-saifsaeed923%40gmail.com-0B1018?style=flat-square&logo=gmail&logoColor=FF3D81" alt="Email" />
   </a>
   <a href="https://github.com/SaifSaeed-12?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-Public_Directory-111317?style=flat-square&logo=git&logoColor=79D9FF" alt="Public Repositories" />
-  </a>
-  <!-- Update the link below once your portfolio website is deployed -->
-  <a href="https://github.com/SaifSaeed-12#contact-and-footer">
-    <img src="https://img.shields.io/badge/Portfolio-Coming_Soon-111317?style=flat-square&logo=googlechrome&logoColor=A1A6B0" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Repositories-Public_Directory-0B1018?style=flat-square&logo=git&logoColor=00A6FF" alt="Repositories" />
   </a>
 </p>
 
@@ -33,185 +34,167 @@
 
 ---
 
-### About Me
+### Section B — AI System Panel
 
-I am a developer focused on engineering reliable web systems and engaging digital experiences. My work centers on:
-
-- **Building practical web applications** using modern full-stack architectures and clean patterns.
-- **Designing clear and intuitive interfaces** that prioritize user experience and usability.
-- **Exploring creative web technologies** like 3D WebGL (Three.js) and interactive motion design (GSAP).
-- **Automating repetitive workflows** using integration engines like n8n and REST APIs.
-- **Improving projects through continuous learning**, systematic code quality, and structured documentation.
-
----
-
-### Technology Stack
-
-A categorized overview of the core technologies, frameworks, and tools I work with:
-
-#### Web Development
-<p>
-  <img src="https://img.shields.io/badge/PHP-111317?style=for-the-badge&logo=php&logoColor=BFC7D5" alt="PHP" />
-  <img src="https://img.shields.io/badge/Laravel-111317?style=for-the-badge&logo=laravel&logoColor=BFC7D5" alt="Laravel" />
-  <img src="https://img.shields.io/badge/JavaScript-111317?style=for-the-badge&logo=javascript&logoColor=BFC7D5" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-111317?style=for-the-badge&logo=html5&logoColor=BFC7D5" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-111317?style=for-the-badge&logo=css3&logoColor=BFC7D5" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Bootstrap-111317?style=for-the-badge&logo=bootstrap&logoColor=BFC7D5" alt="Bootstrap" />
-</p>
-
-#### Creative Development & Interfaces
-<p>
-  <img src="https://img.shields.io/badge/React-111317?style=for-the-badge&logo=react&logoColor=79D9FF" alt="React" />
-  <img src="https://img.shields.io/badge/Three.js-111317?style=for-the-badge&logo=threedotjs&logoColor=BFC7D5" alt="Three.js" />
-  <img src="https://img.shields.io/badge/GSAP-111317?style=for-the-badge&logo=greensock&logoColor=BFC7D5" alt="GSAP" />
-  <img src="https://img.shields.io/badge/UI%2FUX_Design-111317?style=for-the-badge&logo=figma&logoColor=BFC7D5" alt="UI/UX" />
-</p>
-
-#### Automation & Data
-<p>
-  <img src="https://img.shields.io/badge/n8n-111317?style=for-the-badge&logo=n8n&logoColor=79D9FF" alt="n8n" />
-  <img src="https://img.shields.io/badge/MySQL-111317?style=for-the-badge&logo=mysql&logoColor=BFC7D5" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Firebase-111317?style=for-the-badge&logo=firebase&logoColor=BFC7D5" alt="Firebase" />
-  <img src="https://img.shields.io/badge/REST_APIs-111317?style=for-the-badge&logo=postman&logoColor=BFC7D5" alt="REST APIs" />
-</p>
-
-#### Additional Technologies
-<p>
-  <img src="https://img.shields.io/badge/Python-111317?style=for-the-badge&logo=python&logoColor=BFC7D5" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-111317?style=for-the-badge&logo=openjdk&logoColor=BFC7D5" alt="Java" />
-</p>
-
----
-
-### Featured Projects
-
-> **Project Availability Note:**  
-> The projects below reflect current active and candidate development initiatives. As individual repositories are published or prepared for open-source release, repository links will be updated accordingly.
+<div align="center">
 
 <table>
-  <thead>
-    <tr>
-      <th width="30%">Project</th>
-      <th width="45%">Description</th>
-      <th width="25%">Stack & Status</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <b>Personal Portfolio</b><br/>
-        <sub>Interactive Developer Portfolio</sub>
-      </td>
-      <td>
-        A creative developer portfolio highlighting interactive 3D web elements, fluid motion, and responsive interface design.
-      </td>
-      <td>
-        <code>React</code> <code>Three.js</code> <code>GSAP</code><br/>
-        <img src="https://img.shields.io/badge/Status-In_Progress-79D9FF?style=flat-square" alt="In Progress" /><br/>
-        <a href="https://github.com/SaifSaeed-12/portfolio"><sub>[Repository Link]</sub></a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>Smart Attendance System</b><br/>
-        <sub>Academic & Workplace Utility</sub>
-      </td>
-      <td>
-        Automated attendance management platform with role-based dashboards, record auditing, and structured database persistence.
-      </td>
-      <td>
-        <code>PHP</code> <code>Laravel</code> <code>MySQL</code><br/>
-        <img src="https://img.shields.io/badge/Status-In_Development-BFC7D5?style=flat-square" alt="In Development" /><br/>
-        <a href="https://github.com/SaifSaeed-12/smart-attendance-system"><sub>[Repository Link]</sub></a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>Fast Food POS</b><br/>
-        <sub>Point of Sale Application</sub>
-      </td>
-      <td>
-        Order processing and billing point-of-sale interface featuring fast item entry, receipt generation, and real-time transaction state.
-      </td>
-      <td>
-        <code>JavaScript</code> <code>Bootstrap</code> <code>MySQL</code><br/>
-        <img src="https://img.shields.io/badge/Status-Candidate-BFC7D5?style=flat-square" alt="Candidate" /><br/>
-        <a href="https://github.com/SaifSaeed-12/fast-food-pos"><sub>[Repository Link]</sub></a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>Workflow Automation</b><br/>
-        <sub>Integration & Pipeline Engine</sub>
-      </td>
-      <td>
-        Automated task orchestration and webhook processing pipelines to connect disparate cloud services and eliminate repetitive operations.
-      </td>
-      <td>
-        <code>n8n</code> <code>REST APIs</code> <code>Webhooks</code><br/>
-        <img src="https://img.shields.io/badge/Status-Experimental-79D9FF?style=flat-square" alt="Experimental" /><br/>
-        <a href="https://github.com/SaifSaeed-12/workflow-automation"><sub>[Repository Link]</sub></a>
-      </td>
-    </tr>
-  </tbody>
+  <tr>
+    <td width="35%" align="center" style="background-color: #05070B; border: 1px solid #1C2634; border-radius: 8px;">
+      <img src="assets/ai-core.svg" alt="SAIF AI Core Vector" width="200" />
+      <br/>
+      <sub><b>SAIF AI // COMMAND INTERFACE</b></sub>
+    </td>
+    <td width="65%" style="background-color: #0B1018; border: 1px solid #1C2634; border-radius: 8px; padding: 18px;">
+      <b>SYSTEM:</b> <span style="color: #00A6FF;"><code>ONLINE</code></span><br/>
+      <b>FOCUS:</b> <span style="color: #EAF3FF;"><code>FULL STACK DEVELOPMENT</code></span><br/>
+      <b>MODE:</b> <span style="color: #00A6FF;"><code>LEARNING &amp; BUILDING</code></span><br/>
+      <b>AUTOMATION:</b> <span style="color: #FF3D81;"><code>EXPLORING</code></span><br/>
+      <hr style="border: 0; border-top: 1px solid #1C2634;" />
+      <sub><i>Note: Decorative profile status indicators representing active developer directives. Not a live monitoring service.</i></sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+### Section C — About Me
+
+I am a developer focused on constructing dependable software systems, modern web architectures, and engaging digital interfaces. My engineering path and technical interests center around:
+
+- 💻 **Full-Stack Web Development:** Engineering maintainable web applications, clean REST backends, and structured database architectures.
+- 🎨 **Creative Interfaces & UI/UX:** Designing intuitive user flows, clear information hierarchies, and refined interactive UI components.
+- 🌐 **3D Web Experiences & Motion Design:** Exploring spatial web techniques, Three.js viewports, and smooth animation sequences with GSAP.
+- ⚡ **Workflow Automation & API Integrations:** Connecting multi-service environments through automated pipelines using n8n, webhooks, and REST endpoints.
+- 🛠️ **Continuous Improvement:** Building practical applications, adhering to clean code standards, and systematically documenting project architecture.
+
+---
+
+### Section D — Technical Arsenal
+
+A categorized summary of languages, frameworks, and tools I use and actively explore:
+
+<div align="center">
+  <img src="assets/tech-stack.svg" alt="Technical Arsenal — SAIF AI" width="100%" />
+</div>
+
+<br/>
+
+<details>
+<summary><b>View Text-Based Arsenal Directory</b></summary>
+<br/>
+
+- **Web Development:** PHP, Laravel, JavaScript (ES6+), HTML5, CSS3, Bootstrap
+- **Creative Development:** React, UI/UX Design (Figma), GSAP, Three.js *(Exploring 3D Interfaces)*
+- **Automation & Data:** n8n Workflow Automation, REST APIs, Webhooks, MySQL, Firebase
+- **Additional Programming:** Python, Java, .NET
+
+</details>
+
+---
+
+### Section E — Featured Projects
+
+> **Status Notice:**  
+> These initiatives represent active engineering and design projects currently in progress. As codebases and repositories are formally published to GitHub, direct repository and live demo links will be activated. Preview thumbnails reflect illustrative concept mockups.
+
+<br/>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/project-portfolio.png" alt="Personal Portfolio Concept" width="100%" />
+      <br/>
+      <b>01 // Personal Portfolio</b><br/>
+      <sub><b>Stack:</b> React · Three.js · GSAP · Vite</sub><br/>
+      <sub><b>Status:</b> <code>IN DEVELOPMENT</code></sub>
+      <p>
+        A futuristic 3D developer portfolio showcasing interactive WebGL viewports, spatial fluid animations, and high-performance creative experiments.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/project-attendance.png" alt="Smart Attendance Concept" width="100%" />
+      <br/>
+      <b>02 // Smart Attendance System</b><br/>
+      <sub><b>Stack:</b> React Native · Expo · JavaScript · Firebase</sub><br/>
+      <sub><b>Status:</b> <code>IN DEVELOPMENT</code></sub>
+      <p>
+        A cross-platform mobile and web application built to streamline attendance management across administrators, instructors, parents, and students with structured cloud sync.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/project-pos.png" alt="Fast Food POS Concept" width="100%" />
+      <br/>
+      <b>03 // Fast Food POS</b><br/>
+      <sub><b>Stack:</b> Python · PySide6 · MySQL · SQLAlchemy · PyInstaller</sub><br/>
+      <sub><b>Status:</b> <code>IN DEVELOPMENT</code></sub>
+      <p>
+        A dedicated desktop point-of-sale terminal managing dining and takeaway orders, itemized billing, local ticket printing, and real-time inventory management.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/project-automation.png" alt="Workflow Automation Concept" width="100%" />
+      <br/>
+      <b>04 // Workflow Automation</b><br/>
+      <sub><b>Stack:</b> n8n · REST APIs · Webhooks · MySQL</sub><br/>
+      <sub><b>Status:</b> <code>EXPERIMENTAL / IN PROGRESS</code></sub>
+      <p>
+        Practical workflow automation pipelines built with n8n and event-driven webhooks to handle data transformations, multi-service sync, and operational efficiency.
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
 
-### Current Focus
-
-- 🎯 **Improving project quality and documentation:** Structuring maintainable codebases with comprehensive READMEs and architectural clarity.
-- 💻 **Building practical web applications:** Delivering reliable full-stack solutions tailored for real-world utility.
-- 🌐 **Exploring 3D and interactive web design:** Deepening capabilities in WebGL, Three.js shaders, and performant animations.
-- ⚡ **Learning workflow automation:** Expanding multi-step pipeline capabilities using n8n and API integrations.
-- 📈 **Maintaining consistent development activity:** Committing regularly and building a strong public engineering footprint.
-
----
-
-### 3D Contribution Calendar
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/profile-3d-contrib.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/profile-3d-contrib.png">
-    <img alt="Syed Saif Bin Saeed — 3D Isometric Contribution Calendar" src="assets/profile-3d-contrib.png" width="100%">
-  </picture>
-</div>
-
----
-
-### GitHub Activity
+### Section F — GitHub Activity
 
 <div align="center">
 
-<!-- Optional, restrained activity overview configured with the Minimal Metallic theme -->
+<!-- Verified GitHub Statistics Cards configured in Jet Black, Cerulean Blue, and Neon Rose -->
 <a href="https://github.com/SaifSaeed-12">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaifSaeed-12&show_icons=true&theme=transparent&bg_color=08090B&title_color=79D9FF&text_color=BFC7D5&icon_color=79D9FF&border_color=282C34&hide_border=false&locale=en" alt="SaifSaeed-12 GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=SaifSaeed-12&show_icons=true&theme=transparent&bg_color=05070B&title_color=00A6FF&text_color=EAF3FF&icon_color=FF3D81&border_color=1C2634&hide_border=false" alt="SaifSaeed-12 GitHub Stats" width="48%">
 </a>
 <a href="https://github.com/SaifSaeed-12">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaifSaeed-12&layout=compact&theme=transparent&bg_color=08090B&title_color=79D9FF&text_color=BFC7D5&border_color=282C34&hide_border=false" alt="Top Languages" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaifSaeed-12&layout=compact&theme=transparent&bg_color=05070B&title_color=00A6FF&text_color=EAF3FF&border_color=1C2634&hide_border=false" alt="Top Languages" width="48%">
 </a>
 
 <br/>
-
-<sub><i>Note: External metrics update dynamically as public repositories and commit activity are published. If widgets fail to load due to third-party rate limits, GitHub's native contribution graph remains the primary record of activity.</i></sub>
+<sub><i>Note: Activity statistics automatically populate from verified GitHub telemetry as public commits and repositories are published.</i></sub>
 
 </div>
 
 ---
 
-### Contact and Footer
+### Section G — Current Focus
 
-Feel free to connect or reach out regarding web development projects, creative collaborations, or engineering discussions:
+- 🎯 **Improving Full-Stack Development Skills:** Implementing robust architectural patterns across PHP/Laravel and modern JavaScript.
+- 🚀 **Building Practical Applications:** Developing reliable, usable software tools that solve tangible business and workflow problems.
+- 🌐 **Exploring 3D Interfaces & Web Animation:** Deepening proficiency in Three.js camera coordination, shader fundamentals, and GSAP timelines.
+- ⚡ **Learning Workflow Automation:** Experimenting with self-hosted n8n pipelines, webhook listeners, and multi-API integrations.
+- 📖 **Publishing Documented Projects:** Releasing well-structured, open-source repositories with comprehensive setup and architectural guides.
+
+---
+
+### Section H — Contact
+
+Open to discussing software development, creative frontend collaborations, and automation projects:
 
 - 🐙 **GitHub:** [@SaifSaeed-12](https://github.com/SaifSaeed-12)
-- ✉️ **Email:** [Contact via Email](mailto:your-email@example.com) *(Update with your active email address)*
-- 🌐 **Portfolio:** *(Link will be populated upon live deployment)*
+- ✉️ **Email:** [saifsaeed923@gmail.com](mailto:saifsaeed923@gmail.com)
 
-<br/>
+---
+
+### Section I — Footer
 
 <div align="center">
-  <sub>"Build thoughtfully. Keep learning. Improve consistently."</sub>
+  <img src="assets/ai-core.svg" width="36" alt="SAIF AI Core Mini" />
   <br/>
-  <sub>© 2026 Syed Saif Bin Saeed · Minimal Metallic Edition</sub>
+  <sub>"Designed with curiosity. Built with code."</sub>
+  <br/>
+  <sub>© 2026 Syed Saif Bin Saeed &nbsp;•&nbsp; SAIF AI Experience</sub>
 </div>

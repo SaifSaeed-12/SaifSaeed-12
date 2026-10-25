@@ -1,0 +1,131 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 440" width="100%" height="100%">
+  <defs>
+    <filter id="glowB" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <linearGradient id="roseToBlue" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF3D81"/>
+      <stop offset="100%" stop-color="#00A6FF"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Frame Background -->
+  <rect width="920" height="440" fill="#05070B" rx="12"/>
+  <rect x="8" y="8" width="904" height="424" rx="8" fill="#0B1018" stroke="#1D2635" stroke-width="1"/>
+
+  <!-- Corner Accents -->
+  <path d="M 8 28 L 8 8 L 28 8" fill="none" stroke="#00A6FF" stroke-width="2"/>
+  <path d="M 912 28 L 912 8 L 892 8" fill="none" stroke="#00A6FF" stroke-width="2"/>
+  <path d="M 8 404 L 8 424 L 28 424" fill="none" stroke="#FF3D81" stroke-width="2"/>
+  <path d="M 912 404 L 912 424 L 892 424" fill="none" stroke="#FF3D81" stroke-width="2"/>
+
+  <!-- Header -->
+  <circle cx="36" cy="38" r="4" fill="#00A6FF" filter="url(#glowB)"/>
+  <text x="50" y="42" fill="#EAF3FF" font-family="'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="700" letter-spacing="2">TECHNICAL ARSENAL // CORE STACK</text>
+  <text x="880" y="42" fill="#8995A7" font-family="'Consolas', monospace" font-size="11" text-anchor="end">SYS_SPEC: SAIF_AI</text>
+  <line x1="28" y1="56" x2="892" y2="56" stroke="url(#roseToBlue)" stroke-width="1"/>
+
+  <!-- Category 1: Web Development -->
+  <g transform="translate(30, 75)">
+    <rect width="860" height="70" rx="6" fill="#06090E" stroke="#1E2838" stroke-width="1"/>
+    <circle cx="20" cy="35" r="3" fill="#00A6FF"/>
+    <text x="32" y="39" fill="#00A6FF" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="700" letter-spacing="1">WEB DEVELOPMENT</text>
+    
+    <!-- Badges -->
+    <g transform="translate(190, 20)">
+      <!-- PHP -->
+      <rect x="0" y="0" width="85" height="30" rx="4" fill="#111823" stroke="#253549" stroke-width="1"/>
+      <text x="42" y="20" fill="#EAF3FF" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="600" text-anchor="middle">PHP</text>
+      <!-- Laravel -->
+      <rect x="95" y="0" width="95" height="30" rx="4" fill="#111823" stroke="#253549" stroke-width="1"/>
+      <text x="142" y="20" fill="#EAF3FF" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="600" text-anchor="middle">Laravel</text>
+      <!-- JavaScript -->
+      <rect x="200" y="0" width="105" height="30" rx="4" fill="#111823" stroke="#253549" stroke-width="1"/>
+      <text x="252" y="20" fill="#EAF3FF" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="600" text-anchor="middle">JavaScript</text>
+      <!-- HTML5 -->
+      <rect x="315" y="0" width="85" height="30" rx="4" fill="#111823" stroke="#253549" stroke-width="1"/>
+      <text x="357" y="20" fill="#EAF3FF" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="600" text-anchor="middle">HTML5</text>
+      <!-- CSS3 -->
+      <rect x="410" y="0" width="80" height="30" rx="4" fill="#111823" stroke="#253549" stroke-width="1"/>
+      <text x="450" y="20" fill="#EAF3FF" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="600" text-anchor="middle">CSS3</text>
+      <!-- Bootstrap -->
+      <rect x="500" y="0" width="100" height="30" rx="4" fill="#111823" stroke="#253549" stroke-width="1"/>
+      <text x="550" y="20" fill="#EAF3FF" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="600" text-anchor="middle">Bootstrap</text>
+    </g>
+  </g>
+
+  <!-- Category 2: Creative Development & UI -->
+  <g transform="translate(30, 160)">
+    <rect width="860" height="70" rx="6" fill="#06090E" stroke="#1E2838" stroke-width="1"/>
+    <circle cx="20" cy="35" r="3" fill="#FF3D81"/>
+    <text x="32" y="39" fill="#FF3D81" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="700" letter-spacing="1">CREATIVE &amp; 3D</text>
+
+    <!-- Badges -->
+    <g transform="translate(190, 20)">
+      <!-- React -->
+      <rect x="0" y="0" width="90" height="30" rx="4" fill="#111823" stroke="#00A6FF" stroke-width="1"/>
+      <text x="45" y="20" fill="#00A6FF" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="700" text-anchor="middle">React</text>
+      <!-- Three.js -->
+      <rect x="100" y="0" width="100" height="30" rx="4" fill="#111823" stroke="#253549" stroke-width="1"/>
+      <text x="150" y="20" fill="#EAF3FF" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="600" text-anchor="middle">Three.js</text>
+      <!-- GSAP -->
+      <rect x="210" y="0" width="90" height="30" rx="4" fill="#111823" stroke="#253549" stroke-width="1"/>
+      <text x="255" y="20" fill="#EAF3FF" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="600" text-anchor="middle">GSAP</text>
+      <!-- UI/UX Design -->
+      <rect x="310" y="0" width="130" height="30" rx="4" fill="#111823" stroke="#253549" stroke-width="1"/>
+      <text x="375" y="20" fill="#EAF3FF" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="600" text-anchor="middle">UI/UX Design</text>
+      <!-- WebGL / Shaders (Learning) -->
+      <rect x="450" y="0" width="160" height="30" rx="4" fill="#111823" stroke="#1F2A38" stroke-width="1" stroke-dasharray="3 3"/>
+      <text x="530" y="20" fill="#8995A7" font-family="'Segoe UI', sans-serif" font-size="11" text-anchor="middle">3D Interfaces [Exp]</text>
+    </g>
+  </g>
+
+  <!-- Category 3: Automation & Data -->
+  <g transform="translate(30, 245)">
+    <rect width="860" height="70" rx="6" fill="#06090E" stroke="#1E2838" stroke-width="1"/>
+    <circle cx="20" cy="35" r="3" fill="#00A6FF"/>
+    <text x="32" y="39" fill="#00A6FF" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="700" letter-spacing="1">AUTOMATION &amp; DATA</text>
+
+    <!-- Badges -->
+    <g transform="translate(190, 20)">
+      <!-- n8n -->
+      <rect x="0" y="0" width="90" height="30" rx="4" fill="#111823" stroke="#FF3D81" stroke-width="1"/>
+      <text x="45" y="20" fill="#FF3D81" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="700" text-anchor="middle">n8n</text>
+      <!-- REST APIs -->
+      <rect x="100" y="0" width="105" height="30" rx="4" fill="#111823" stroke="#253549" stroke-width="1"/>
+      <text x="152" y="20" fill="#EAF3FF" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="600" text-anchor="middle">REST APIs</text>
+      <!-- Webhooks -->
+      <rect x="215" y="0" width="105" height="30" rx="4" fill="#111823" stroke="#253549" stroke-width="1"/>
+      <text x="267" y="20" fill="#EAF3FF" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="600" text-anchor="middle">Webhooks</text>
+      <!-- MySQL -->
+      <rect x="330" y="0" width="95" height="30" rx="4" fill="#111823" stroke="#253549" stroke-width="1"/>
+      <text x="377" y="20" fill="#EAF3FF" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="600" text-anchor="middle">MySQL</text>
+      <!-- Firebase -->
+      <rect x="435" y="0" width="105" height="30" rx="4" fill="#111823" stroke="#253549" stroke-width="1"/>
+      <text x="487" y="20" fill="#EAF3FF" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="600" text-anchor="middle">Firebase</text>
+    </g>
+  </g>
+
+  <!-- Category 4: Additional Programming -->
+  <g transform="translate(30, 330)">
+    <rect width="860" height="70" rx="6" fill="#06090E" stroke="#1E2838" stroke-width="1"/>
+    <circle cx="20" cy="35" r="3" fill="#8995A7"/>
+    <text x="32" y="39" fill="#8995A7" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="700" letter-spacing="1">ADDITIONAL DEV</text>
+
+    <!-- Badges -->
+    <g transform="translate(190, 20)">
+      <!-- Python -->
+      <rect x="0" y="0" width="95" height="30" rx="4" fill="#111823" stroke="#253549" stroke-width="1"/>
+      <text x="47" y="20" fill="#EAF3FF" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="600" text-anchor="middle">Python</text>
+      <!-- Java -->
+      <rect x="105" y="0" width="85" height="30" rx="4" fill="#111823" stroke="#253549" stroke-width="1"/>
+      <text x="147" y="20" fill="#EAF3FF" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="600" text-anchor="middle">Java</text>
+      <!-- .NET -->
+      <rect x="200" y="0" width="85" height="30" rx="4" fill="#111823" stroke="#253549" stroke-width="1"/>
+      <text x="242" y="20" fill="#EAF3FF" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="600" text-anchor="middle">.NET</text>
+      <!-- Status note -->
+      <text x="320" y="20" fill="#8995A7" font-family="'Consolas', monospace" font-size="10">// PRACTICAL WORKLOAD &amp; SCRIPTS</text>
+    </g>
+  </g>
+</svg>

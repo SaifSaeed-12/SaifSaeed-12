@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradient -->
+    <radialGradient id="bgGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00A6FF" stop-opacity="0.18"/>
+      <stop offset="50%" stop-color="#0B1018" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#05070B" stop-opacity="1"/>
+    </radialGradient>
+    
+    <!-- Cerulean Glow Filter -->
+    <filter id="glowCerulean" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <!-- Neon Rose Glow Filter -->
+    <filter id="glowRose" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="5" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <!-- Core Nucleus Gradient -->
+    <radialGradient id="nucleusGrad" cx="40%" cy="40%" r="60%">
+      <stop offset="0%" stop-color="#EAF3FF"/>
+      <stop offset="35%" stop-color="#00A6FF"/>
+      <stop offset="75%" stop-color="#0B3055"/>
+      <stop offset="100%" stop-color="#05070B"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Background Base -->
+  <rect width="400" height="400" fill="#05070B" rx="16"/>
+  <circle cx="200" cy="200" r="180" fill="url(#bgGlow)"/>
+
+  <!-- Outer Architectural Framing -->
+  <rect x="20" y="20" width="360" height="360" rx="12" fill="none" stroke="#242D3D" stroke-width="1"/>
+  
+  <!-- Corner Ticks -->
+  <path d="M 20 40 L 20 20 L 40 20" fill="none" stroke="#00A6FF" stroke-width="2"/>
+  <path d="M 380 40 L 380 20 L 360 20" fill="none" stroke="#00A6FF" stroke-width="2"/>
+  <path d="M 20 360 L 20 380 L 40 380" fill="none" stroke="#FF3D81" stroke-width="2"/>
+  <path d="M 380 360 L 380 380 L 360 380" fill="none" stroke="#FF3D81" stroke-width="2"/>
+
+  <!-- Radar / Coordinate Grid Rings -->
+  <circle cx="200" cy="200" r="140" fill="none" stroke="#162232" stroke-width="1" stroke-dasharray="4 6"/>
+  <circle cx="200" cy="200" r="110" fill="none" stroke="#1A2B3E" stroke-width="1.5"/>
+  <circle cx="200" cy="200" r="85" fill="none" stroke="#24374E" stroke-width="1" stroke-dasharray="8 8"/>
+  <circle cx="200" cy="200" r="60" fill="none" stroke="#00A6FF" stroke-width="1.5" stroke-opacity="0.4"/>
+
+  <!-- Rotating Holographic Ring 1 (Cerulean Ellipse) -->
+  <ellipse cx="200" cy="200" rx="145" ry="48" fill="none" stroke="#00A6FF" stroke-width="2" transform="rotate(-25 200 200)" filter="url(#glowCerulean)"/>
+  
+  <!-- Rotating Holographic Ring 2 (Deep Tilt) -->
+  <ellipse cx="200" cy="200" rx="140" ry="36" fill="none" stroke="#8995A7" stroke-width="1" stroke-dasharray="12 6" transform="rotate(40 200 200)"/>
+
+  <!-- Scanning Laser Ring (Neon Rose) -->
+  <ellipse cx="200" cy="200" rx="125" ry="32" fill="none" stroke="#FF3D81" stroke-width="2" transform="rotate(75 200 200)" filter="url(#glowRose)"/>
+
+  <!-- AI Energy Nucleus Sphere -->
+  <circle cx="200" cy="200" r="42" fill="url(#nucleusGrad)" filter="url(#glowCerulean)"/>
+  <circle cx="192" cy="192" r="14" fill="#EAF3FF" opacity="0.85" filter="url(#glowCerulean)"/>
+
+  <!-- Orbital Sensor Nodes -->
+  <circle cx="75" cy="140" r="3.5" fill="#00A6FF" filter="url(#glowCerulean)"/>
+  <circle cx="325" cy="260" r="3.5" fill="#00A6FF" filter="url(#glowCerulean)"/>
+  <circle cx="235" cy="78" r="3" fill="#FF3D81" filter="url(#glowRose)"/>
+  <circle cx="165" cy="322" r="3" fill="#FF3D81" filter="url(#glowRose)"/>
+
+  <!-- Crosshair Axis Marks -->
+  <line x1="200" y1="45" x2="200" y2="60" stroke="#00A6FF" stroke-width="1.5"/>
+  <line x1="200" y1="340" x2="200" y2="355" stroke="#00A6FF" stroke-width="1.5"/>
+  <line x1="45" y1="200" x2="60" y2="200" stroke="#00A6FF" stroke-width="1.5"/>
+  <line x1="340" y1="200" x2="355" y2="200" stroke="#00A6FF" stroke-width="1.5"/>
+
+  <!-- Cybernetic Labels -->
+  <text x="200" y="44" fill="#8995A7" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="600" text-anchor="middle" letter-spacing="3">SYSTEM // SAIF_AI_CORE</text>
+  <text x="200" y="366" fill="#00A6FF" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="700" text-anchor="middle" letter-spacing="4">ONLINE • ACTIVE</text>
+</svg>
