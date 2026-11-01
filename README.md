@@ -157,10 +157,10 @@ A categorized summary of languages, frameworks, and tools I use and actively exp
 
 <!-- Verified GitHub Statistics Cards configured in Jet Black, Cerulean Blue, and Neon Rose -->
 <a href="https://github.com/SaifSaeed-12">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaifSaeed-12&show_icons=true&theme=transparent&bg_color=05070B&title_color=00A6FF&text_color=EAF3FF&icon_color=FF3D81&border_color=1C2634&hide_border=false" alt="SaifSaeed-12 GitHub Stats" width="48%">
+  <img src="https://github-stats-extended.vercel.app/api?username=SaifSaeed-12&show_icons=true&theme=transparent&bg_color=05070B&title_color=00A6FF&text_color=EAF3FF&icon_color=FF3D81&border_color=1C2634&hide_border=false" alt="SaifSaeed-12 GitHub Stats" width="48%">
 </a>
 <a href="https://github.com/SaifSaeed-12">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaifSaeed-12&layout=compact&theme=transparent&bg_color=05070B&title_color=00A6FF&text_color=EAF3FF&border_color=1C2634&hide_border=false" alt="Top Languages" width="48%">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=SaifSaeed-12&layout=compact&theme=transparent&bg_color=05070B&title_color=00A6FF&text_color=EAF3FF&border_color=1C2634&hide_border=false" alt="Top Languages" width="48%">
 </a>
 
 <br/>
